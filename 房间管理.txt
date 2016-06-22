@@ -1,0 +1,10 @@
+设置为管理员：
+http://tv.youximao.cn/l/fm_setRoleAdmin.action?ip=&roomId=2200067902&result=json&t=1463451920730&targetUserId=18023
+禁言五分钟
+http://tv.youximao.cn/fp_banchat.action?ip=&roomId=2200067902&result=json&t=1463452011304&targetUserId=18153
+恢复发言：
+http://tv.youximao.cn/fp_unbanchat.action?ip=null&roomId=2200067902&result=json&t=1463452494019&targetUserId=18023
+踢出房间一小时
+http://tv.youximao.cn/fp_kick.action?ip=&roomId=2200067902&result=json&t=1463452129169&targetUserId=15428
+取消管理员
+http://tv.youximao.cn/l/fm_cancelRoleAdmin.action?ip=null&roomId=2200067902&result=json&t=1463452223696&targetUserId=18023
