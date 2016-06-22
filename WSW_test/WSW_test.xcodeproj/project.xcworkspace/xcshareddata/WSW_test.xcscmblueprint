@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "010e201a-e990-4b19-8460-a45ec47f020e++6854",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "010e201a-e990-4b19-8460-a45ec47f020e++6854" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "010e201a-e990-4b19-8460-a45ec47f020e++6854" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "784AA352-0362-4A51-B1F5-AD9E86FA4F59",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "010e201a-e990-4b19-8460-a45ec47f020e++6854" : "GameMall2.0.1\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WSW_test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GameMail\/GameMall\/Classes\/LiveShow\/LiveShowRoom\/view\/WSW_test\/WSW_test.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.50.3\/project",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "010e201a-e990-4b19-8460-a45ec47f020e++6854"
+    }
+  ]
+}
