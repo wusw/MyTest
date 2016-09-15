@@ -272,6 +272,44 @@
     NSLog(@"path : %@", path);
 }
 
+    
+    //    PanView *pan = [[PanView alloc] initWithFrame:CGRectMake(-self.view.bounds.size.width, 0, self.view.bounds.size.width*2, self.view.bounds.size.height)];
+    //    pan.delegate = self;
+    //    pan.backgroundColor = [UIColor redColor];
+    //    [self.view addSubview:pan];
+    //    self.panView = pan;
+    //
+    //    UILabel *marLabel = [[UILabel alloc] initWithFrame:CGRectMake(150+self.view.bounds.size.width, 150, 100, 100)];
+    //    marLabel.text = @"X1";
+    //    //[marLabel sizeToFit];
+    //    marLabel.backgroundColor = [UIColor orangeColor];
+    //    marLabel.textColor = [UIColor redColor];
+    //    marLabel.textAlignment = NSTextAlignmentCenter;
+    //    marLabel.font = [UIFont boldSystemFontOfSize:20];
+    //    [pan addSubview:marLabel];
+    //    self.marLabel = marLabel;
+    //    marLabel.hidden = YES;
+    
+    
+    //    [UIView beginAnimations:@"marquee" context:NULL];
+    //    [UIView setAnimationDuration:5];
+    //    [UIView setAnimationCurve:UIViewAnimationCurveLinear];
+    //    [UIView setAnimationRepeatAutoreverses:NO];
+    //    [UIView setAnimationRepeatCount:100000];
+    //
+    //    CGRect rect = marLabel.frame;
+    //    rect.origin.x = -rect.size.width;
+    //    marLabel.frame = rect;
+    //
+    //    [UIView commitAnimations];
+    
+    //    UIButton *button = [UIButton buttonWithType:UIButtonTypeCustom];
+    //    [button setFrame:CGRectMake(150, 250, 60, 30)];
+    //    [button setTitle:@"click" forState:UIControlStateNormal];
+    //    button.backgroundColor = [UIColor orangeColor];
+    //    [button addTarget:self action:@selector(click) forControlEvents:UIControlEventTouchDown];
+    //    [self.view addSubview:button];
+}
 
 - (void)unzip:(NSString *)giftUrl fileName:(NSString *)fileName
 {

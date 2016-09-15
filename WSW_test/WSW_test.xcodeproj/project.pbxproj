@@ -114,6 +114,8 @@
 		0C2E733C1D766B9300383314 /* WebP.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = WebP.framework; sourceTree = "<group>"; };
 		0C65DD361D215E3D00BAE9A8 /* RuntimeVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RuntimeVC.h; sourceTree = "<group>"; };
 		0C65DD371D215E3D00BAE9A8 /* RuntimeVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RuntimeVC.m; sourceTree = "<group>"; };
+=======
+>>>>>>> 338c35dd417b0a99ab4ea96d991d58fa182b1bc1
 		0CB7BC041CD98D1C005B3144 /* crypt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypt.h; sourceTree = "<group>"; };
 		0CB7BC051CD98D1C005B3144 /* ioapi.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ioapi.c; sourceTree = "<group>"; };
 		0CB7BC061CD98D1C005B3144 /* ioapi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ioapi.h; sourceTree = "<group>"; };
@@ -454,6 +456,13 @@
 				0C2E733F1D766B9300383314 /* SDImageCache.m in Sources */,
 				0C2E73461D766B9300383314 /* UIButton+WebCache.m in Sources */,
 				0C2E733E1D766B9300383314 /* NSData+ImageContentType.m in Sources */,
+				0CB7BC121CD98D1C005B3144 /* zip.c in Sources */,
+				0CB7BC111CD98D1C005B3144 /* unzip.c in Sources */,
+				0C007A571CC53940009D1607 /* AppDelegate.m in Sources */,
+				0CB7BC101CD98D1C005B3144 /* mztools.c in Sources */,
+				0C007AC11CC75930009D1607 /* PanView.m in Sources */,
+				0C007A541CC5393F009D1607 /* main.m in Sources */,
+				0CB7BC131CD98D1C005B3144 /* ZipArchive.mm in Sources */,
 				0CB7BC0F1CD98D1C005B3144 /* ioapi.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
