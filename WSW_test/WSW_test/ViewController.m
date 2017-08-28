@@ -272,7 +272,7 @@
     NSLog(@"path : %@", path);
 }
 
-    
+{
     //    PanView *pan = [[PanView alloc] initWithFrame:CGRectMake(-self.view.bounds.size.width, 0, self.view.bounds.size.width*2, self.view.bounds.size.height)];
     //    pan.delegate = self;
     //    pan.backgroundColor = [UIColor redColor];
@@ -309,7 +309,7 @@
     //    button.backgroundColor = [UIColor orangeColor];
     //    [button addTarget:self action:@selector(click) forControlEvents:UIControlEventTouchDown];
     //    [self.view addSubview:button];
-//}
+}
 
 - (void)unzip:(NSString *)giftUrl fileName:(NSString *)fileName
 {
