@@ -45,6 +45,7 @@
     //[self unzip_method];
     
     NSLog(@"---------");
+    NSLog(@"---------");
 }
 
 - (void)testMutableCopy
