@@ -47,9 +47,6 @@
     NSLog(@"---------");
     NSLog(@"---------");
     NSLog(@"---------");
-    
-    NSLog(@"---------");
-
 }
 
 - (void)testMutableCopy
